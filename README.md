@@ -18,6 +18,7 @@ This is my first project collection, and I apologize in advance if there are any
 
 4. **[Changelog Component](https://roadmap.sh/projects/changelog-component)**
    - ![Changelog Component Image](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/4.png)
+   - [Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/4.Changelog%20Component/)
    
 
 5. **[Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)**
