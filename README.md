@@ -5,15 +5,15 @@ This is my first project collection, and I apologize in advance if there are any
 ## Projects
 
 1. **[Single-Page CV](#)**
-   - ![Single-Page CV Image]()
+   - ![Single-Page CV Image]
    
 
 2. **[Basic HTML Website](#)**
-   - ![Basic HTML Website Image]()
+   - ![Basic HTML Website Image]
    
 
 3. **[Personal Portfolio](#)**
-   - ![Personal Portfolio Image]()
+   - ![Personal Portfolio Image]
    
 
 4. **[Changelog Component](https://roadmap.sh/projects/changelog-component)**
