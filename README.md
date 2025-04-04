@@ -24,7 +24,7 @@ These mini-projects help me strengthen my fundamentals in:
 
 ## 🧩 Project List
 
-| No. | Project Name | Preview | Live Demo |
+| No. | Project Name | Preview | 🌐Live Demo🌐 |
 |:--:|:-------------|:--------:|:----------:|
 | 1 | **Single-Page CV** | _Image coming soon_ | 🔗 - |
 | 2 | **Basic HTML Website** | _Image coming soon_ | 🔗 - |
