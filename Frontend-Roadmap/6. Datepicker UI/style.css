@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: Overpass;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    max-width: 100%;
+    text-align: center;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+input{
+    border: 0;
+    width: 220px;
+    height: 20px;
+}
+section{
+    /* border: 1px solid black; */
+    width: 300px;
+    max-width: 100%;
+    margin: auto;
+}
+
+.input{
+    border: 1px solid black;
+    margin: 20px 20px 5px 20px;
+    padding: 7px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    a{
+        display: flex;
+        justify-content: center;
+        padding: 0 5px;
+    }
+    .icon{
+        color: black;
+    }
+}
+
+.date{
+    background-color: #ffffff;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    .m{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        border-bottom: 1px solid rgb(102, 102, 102);
+        p{
+            padding: 5px 5px 3px 5px;
+            align-items: center;
+            text-align: center;
+        }
+    }
+    .day{
+        color: rgb(131, 131, 131);
+        display: grid;
+        padding: 5px 0;
+        grid-template-columns: repeat(7,1fr);
+    }
+    .num{
+        
+        display: grid;
+        grid-template-columns: repeat(7,1fr);
+        grid-template-rows: repeat(5,1fr);
+        div{
+            padding: 5px;
+        }
+    }
+
+}
+
+

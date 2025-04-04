@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300..700&display=swap');
+*{
+    font-family: Spline Sans;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* border: 1px solid red; */
+    width: 900px;
+    max-width: 100%;
+    margin: 200px auto;
+    text-align: center;
+}
+
+.help{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(34, 34, 34, 0.425);
+    a{
+        position: relative;
+        padding: 0 20px;
+        text-decoration: none;
+        color: black;
+    }
+    p{
+        color: beige;
+    }
+}
+
+.project{
+    position: relative;
+}
+
+.project::before{
+    content: "Text it's help";
+    position: absolute;
+    width: 100%;
+    top: -3.1rem;
+    transform: translateX(-20%);
+    padding: 10px;
+    background-color: rgba(109, 221, 255, 0.822);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    transition: 0.3s;
+    opacity: 0;
+
+    z-index: 10;
+}
+
+.project::after{
+    content: "";
+    position: absolute;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-top: 9px solid rgba(109, 221, 255, 0.822);
+    transform: translateX(-200%);
+    top: -11px;
+    transition: 0.3s;
+    opacity: 0;
+    z-index: 10;
+}
+
+.project:hover::before,
+.project:hover::after{
+    opacity: 1;
+}
+
+.project:hover{
+    color: rgba(255, 116, 116, 0.911);
+}
+
+
+@media screen and (max-width: 1024px) {
+    .grid-cl{
+        grid-template-columns: repeat(1,1fr);
+    }
+}

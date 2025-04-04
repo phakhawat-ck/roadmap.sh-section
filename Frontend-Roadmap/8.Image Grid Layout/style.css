@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300..700&display=swap');
+*{
+    font-family: Spline Sans;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    border: 1px solid black;
+    width: 920px;
+    max-width: 100%;
+    margin: 20px auto;
+}
+
+.grid-cl{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    img{
+        width: 100%;
+        height: auto;
+        padding: 5px;
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+    .grid-cl{
+        grid-template-columns: repeat(1,1fr);
+    }
+}

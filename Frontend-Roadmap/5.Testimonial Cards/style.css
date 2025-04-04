@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300..700&display=swap');
+
+*{
+    font-family: Spline Sans;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 1000px;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    /* border: 1px solid black; */
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+
+.contianer{
+    /* border: 1px solid red; */
+    max-width: 100%;
+    
+    margin: 10px;
+}
+.one-main{
+    position: relative;
+    width: 100%;
+    max-width: 330px;
+    padding: 10px;
+    background-color: rgb(29, 29, 29);
+    color: white;
+    margin: 20px;
+    border-radius: 20px;
+    p{
+        padding: 7px 0px;
+    }
+}
+
+.one-main::before{
+    content: "";
+    position: absolute ;
+    height: 20px;
+    width: 20px;
+    bottom: -10px;
+    left: 40px;
+    background-color: rgb(29, 29, 29);
+    transform: rotate(45deg);
+    
+    
+}
+
+.profile{
+    display: flex;
+    position: relative;
+    margin-left: 34px;
+    
+    /* border: 1px solid red; */
+    img{
+        /* border: 1px solid red; */
+        width: 72px;
+        height: 72px;
+        margin-right: 10px;
+        border-radius: 100%;
+        z-index: 10;
+    }
+    h1{
+        font-size: 20px;
+    }
+    .text{
+        /* border: 1px solid red; */
+        padding: 5px 0;
+        align-items: center;
+    }
+}
+
+
+
+
+.row-2{
+    display: flex;
+    grid-column: span 2;  /* ให้กินพื้นที่ 2 คอลัมน์ ถาม GPT มา  !! ถ้าทำ responsive ต้องไปเเก้ด้วย*/
+    /* border: 1px solid rgb(0, 0, 0); */
+    padding: 40px;
+    align-items: center;
+    img{
+        border: 1px solid rgb(153, 153, 153);
+        height: 250px;
+        width: 250px;
+        border-radius: 20px;
+    }
+    .profile-1{
+            display: block;
+            margin: 20px;         
+            h1{
+                font-size: 40px;
+                font-weight: 400;
+            }
+            p{
+                padding: 10px 0;
+                font-weight: 300;
+            }
+            .t{
+                padding: 20px;
+                color: white;
+                background-color: rgb(27, 27, 27);
+                border-radius: 20px;
+                
+            }
+    }
+
+}
+
+
+.row-3{
+    border: 1px solid black;
+    border-radius: 30px;
+    grid-column: span 2;
+    padding: 30px 100px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+}
+
+.arrow{
+    display: flex;
+    /* border: 1px solid black; */
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    img{
+        /* border: 1px solid black; */
+        height: 48px;
+        width: 48px;
+        border-radius: 100%;
+        background-color: brown;
+    }
+    i{
+        padding: 0 20px;
+    }
+}
+
+#i1,#i3{
+    height: 45px;
+    width: 45px;
+    opacity: 50%;
+}
+
+
+
+
+@media (max-width: 640px) {
+    body {
+        grid-template-columns: 1fr; 
+    }
+    .row-2 {
+        display: block;
+        grid-column: span 1; /* เปลี่ยนจาก span 2 เป็น span 1 */
+        width: 100%; /* ให้กินเต็มความกว้าง */
+        padding: 20px;
+
+        .img img {
+        display: block;
+        margin: 0 auto; /* จัดให้อยู่ตรงกลาง */
+        }
+        
+    }
+    .row-3{
+        grid-column: span 1;
+        padding: 30px 20px;
+        .img{
+            display: flex;
+        }
+        
+    }
+    
+    
+}
