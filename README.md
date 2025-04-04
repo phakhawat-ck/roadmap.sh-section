@@ -39,3 +39,17 @@ These mini-projects help me strengthen my fundamentals in:
 ---
 
 > Made with ❤️ by [Phakhawat](https://github.com/phakhawat-ck)
+
+## 🧩 Project List
+
+| No. | Project Name | Preview + Live Demo |
+|:--:|:-------------|:---------------------|
+| 1 | **Single-Page CV** | _Image coming soon_ |
+| 2 | **Basic HTML Website** | _Image coming soon_ |
+| 3 | **Personal Portfolio** | _Image coming soon_ |
+| 4 | [**Changelog Component**](https://roadmap.sh/projects/changelog-component) | <br>![Changelog](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/4.png)<br>[🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/4.Changelog%20Component/) |
+| 5 | [**Testimonial Cards**](https://roadmap.sh/projects/testimonial-cards) | <br>![Testimonial](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/5.png)<br>[🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/5.Testimonial%20Cards/) |
+| 6 | [**Datepicker UI**](https://roadmap.sh/projects/datepicker-ui) | <br>![Datepicker](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/6.png)<br>[🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/6.%20Datepicker%20UI/) |
+| 7 | [**Accessible Form UI**](https://roadmap.sh/projects/accessible-form-ui) | <br>![Form](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/7.png)<br>[🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/7.Accessible%20Form%20UI/) |
+| 8 | [**Image Grid Layout**](https://roadmap.sh/projects/image-grid) | <br>![Grid](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/8.png)<br>[🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/8.Image%20Grid%20Layout/) |
+| 9 | [**Tooltip UI**](https://roadmap.sh/projects/tooltip-ui) | <br>![Tooltip](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/9.png)<br>[🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/9.Tooltip%20UI/) |
