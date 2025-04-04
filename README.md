@@ -4,7 +4,7 @@ This is my first project collection, and I apologize in advance if there are any
 
 ## Projects Overview
 
-| No. | Project Name | Preview | Live Demo |
+| No. | Project Name | Preview |    Live Demo    |
 |-----|--------------|---------|-----------|
 | 1 | **Single-Page CV** | *Image coming soon* | - |
 | 2 | **Basic HTML Website** | *Image coming soon* | - |
