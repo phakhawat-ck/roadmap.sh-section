@@ -1,4 +1,4 @@
-# Roadmap.sh Projects
+# Roadmap.sh Frontend Developer Projects
 
 This is my first project collection, and I apologize in advance if there are any syntax errors. I'm still learning and improving my skills. This repository contains a series of web development projects that I have built to practice and strengthen my understanding of web technologies, including HTML, CSS, and JavaScript.
 
