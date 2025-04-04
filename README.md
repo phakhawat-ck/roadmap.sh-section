@@ -24,17 +24,17 @@ These mini-projects help me strengthen my fundamentals in:
 
 ## 🧩 Project List
 
-| No. | Project Name | Preview | 🌐Live Demo🌐 |
+| No. | Project Name | Preview | Live Demo |
 |:--:|:-------------|:--------:|:----------:|
 | 1 | **Single-Page CV** | _Image coming soon_ | 🔗 - |
 | 2 | **Basic HTML Website** | _Image coming soon_ | 🔗 - |
 | 3 | **Personal Portfolio** | _Image coming soon_ | 🔗 - |
-| 4 | [**Changelog Component**](https://roadmap.sh/projects/changelog-component) | ![Changelog](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/4.png) | [🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/4.Changelog%20Component/) |
-| 5 | [**Testimonial Cards**](https://roadmap.sh/projects/testimonial-cards) | ![Testimonial](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/5.png) | [🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/5.Testimonial%20Cards/) |
-| 6 | [**Datepicker UI**](https://roadmap.sh/projects/datepicker-ui) | ![Datepicker](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/6.png) | [🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/6.%20Datepicker%20UI/) |
-| 7 | [**Accessible Form UI**](https://roadmap.sh/projects/accessible-form-ui) | ![Form](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/7.png) | [🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/7.Accessible%20Form%20UI/) |
-| 8 | [**Image Grid Layout**](https://roadmap.sh/projects/image-grid) | ![Grid](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/8.png) | [🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/8.Image%20Grid%20Layout/) |
-| 9 | [**Tooltip UI**](https://roadmap.sh/projects/tooltip-ui) | ![Tooltip](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/9.png) | [🌐 Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/9.Tooltip%20UI/) |
+| 4 | [**Changelog Component**](https://roadmap.sh/projects/changelog-component) | ![Changelog](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/4.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/4.Changelog%20Component/) |
+| 5 | [**Testimonial Cards**](https://roadmap.sh/projects/testimonial-cards) | ![Testimonial](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/5.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/5.Testimonial%20Cards/) |
+| 6 | [**Datepicker UI**](https://roadmap.sh/projects/datepicker-ui) | ![Datepicker](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/6.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/6.%20Datepicker%20UI/) |
+| 7 | [**Accessible Form UI**](https://roadmap.sh/projects/accessible-form-ui) | ![Form](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/7.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/7.Accessible%20Form%20UI/) |
+| 8 | [**Image Grid Layout**](https://roadmap.sh/projects/image-grid) | ![Grid](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/8.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/8.Image%20Grid%20Layout/) |
+| 9 | [**Tooltip UI**](https://roadmap.sh/projects/tooltip-ui) | ![Tooltip](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/9.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/9.Tooltip%20UI/) |
 
 ---
 
