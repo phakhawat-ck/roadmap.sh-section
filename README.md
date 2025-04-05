@@ -18,6 +18,7 @@ These projects will help strengthen my skills in:
 - ✅ HTML
 - ✅ CSS
 - ❔ JavaScript
+- 📱 Responsive all
 
 ---
 
