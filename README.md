@@ -28,8 +28,8 @@ These mini-projects help me strengthen my fundamentals in:
 | No. | Project Name | Preview | Live Demo |
 |:--:|:-------------|:--------:|:----------:|
 | 1 | **Single-Page CV** | _Image coming soon_ | 🔗 - |
-| 2 | **Basic HTML Website** | _Image coming soon_ | 🔗 - |
-| 3 | **Personal Portfolio** | _Image coming soon_ | 🔗 - |
+| 2 | **Basic HTML Website**(https://roadmap.sh/projects/portfolio-website) | ![Changelog](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/2-3.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/2-3.Personal%20Portfolio/) |
+| 3 | **Personal Portfolio**(https://roadmap.sh/projects/basic-html-website) | ![Changelog](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/2-3.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/2-3.Personal%20Portfolio/) |
 | 4 | [**Changelog Component**](https://roadmap.sh/projects/changelog-component) | ![Changelog](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/4.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/4.Changelog%20Component/) |
 | 5 | [**Testimonial Cards**](https://roadmap.sh/projects/testimonial-cards) | ![Testimonial](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/5.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/5.Testimonial%20Cards/) |
 | 6 | [**Datepicker UI**](https://roadmap.sh/projects/datepicker-ui) | ![Datepicker](https://github.com/phakhawat-ck/roadmap.sh-section/blob/main/image%20preview/6.png) | [🌐 Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Frontend-Roadmap/6.%20Datepicker%20UI/) |
