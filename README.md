@@ -21,6 +21,7 @@ These mini-projects help me strengthen my fundamentals in:
 - ❔ JavaScript
 
 ---
+📱Responsive all Project ;>
 
 ## 🧩 Project List
 
