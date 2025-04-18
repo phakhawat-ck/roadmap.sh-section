@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accordion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="contriner">
+        <h1>Frequently Asked Questions</h1>
+        <p>Here are some of the frequently asked questions</p>
+        <div class="card">
+            <label class="cb">
+                <span class="label-text">What is roadmap.sh?</span>
+                <input type="checkbox" class="checkbox">
+                <span class="checkmark">V</span>
+            </label>
+            <div class="content hidden">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae neque perferendis iste impedit sed!
+                Eaque qui distinctio quam. Impedit blanditiis repudiandae nihil aspernatur. Laboriosam architecto
+                provident laudantium maxime est natus quod debitis alias quam, dicta odio vitae quia qui numquam
+                delectus quas doloribus corrupti, repellendus asperiores, eum praesentium impedit facilis!
+            </div>
+        </div>
+        <div class="card">
+            <label class="cb">
+                <span class="label-text">What are the plans for roadmap.sh?</span>
+                <input type="checkbox" class="checkbox">
+                <span class="checkmark">V</span>
+            </label>
+            <div class="content hidden">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem ut ex impedit id error soluta non nulla
+                excepturi dolore? Voluptatum?
+            </div>
+        </div>
+        <div class="card">
+            <label class="cb">
+                <span class="label-text">How is roadmap.sh built?</span>
+                <input type="checkbox" class="checkbox">
+                <span class="checkmark">V</span>
+            </label>
+            <div class="content hidden">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem ut ex impedit id error soluta non nulla
+                excepturi dolore? Voluptatum?
+            </div>
+        </div>
+        <div class="card">
+            <label class="cb">
+                <span class="label-text">Can I use roadmap.sh in my team?</span>
+                <input type="checkbox" class="checkbox">
+                <span class="checkmark">V</span>
+            </label>
+            <div class="content hidden">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem ut ex impedit id error soluta non nulla
+                excepturi dolore? Voluptatum?
+            </div>
+        </div>
+        <div class="card">
+            <label class="cb">
+                <span class="label-text">How can I create custom roadmaps?</span>
+                <input type="checkbox" class="checkbox">
+                <span class="checkmark">V</span>
+            </label>
+            <div class="content hidden">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem ut ex impedit id error soluta non nulla
+                excepturi dolore? Voluptatum?
+            </div>
+        </div>
+        <div class="card">
+            <label class="cb">
+                <span class="label-text">Is roadmap.sh really 7th most starred project on Github?</span>
+                <input type="checkbox" class="checkbox">
+                <span class="checkmark">V</span>
+            </label>
+            <div class="content hidden">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem ut ex impedit id error soluta non nulla
+                excepturi dolore? Voluptatum?
+            </div>
+        </div>
+        <div class="card">
+            <label class="cb">
+                <span class="label-text">What is roadmap.sh?</span>
+                <input type="checkbox" class="checkbox">
+                <span class="checkmark">V</span>
+            </label>
+            <div class="content hidden">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem ut ex impedit id error soluta non nulla
+                excepturi dolore? Voluptatum?
+            </div>
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
+
+<script>
+    const checks = document.querySelectorAll(".checkbox")
+    // checks.forEach((checkbox, index) => {
+    //     checkbox.addEventListener("change", () => {
+    //         const content = document.querySelectorAll(".content")[index]
+    //         if (checkbox.checked) {
+    //             content.classList.remove('hidden')
+    //             content.classList.add('show')
+    //         } else {
+    //             content.classList.remove('show')
+    //             content.classList.add('hidden')
+    //         }
+    //     })
+    // })
+
+
+    const contents = document.querySelectorAll(".content");
+
+    checks.forEach((checkbox, index) => {
+        checkbox.addEventListener('change', () => {
+            // close all content
+            checks.forEach((cb, i) => {
+                if (i !== index) {
+                    cb.checked = false
+                }
+                contents[i].classList.remove('show')
+                contents[i].classList.add('hidden')
+            })
+
+            if (checkbox.checked) {
+                contents[index].classList.remove('hidden')
+                contents[index].classList.add('show')
+            }
+        })
+    })
+
+
+</script>
