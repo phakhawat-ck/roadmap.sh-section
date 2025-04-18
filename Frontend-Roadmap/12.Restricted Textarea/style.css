@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    font-family: Rubik;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.contriner{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 600px;
+}
+.input{
+    position: relative;
+    /* border: 1px solid; */
+    p{
+        position: absolute;
+        bottom: 5px;
+        right: 5px;
+    }
+}
+
+.contriner textarea{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    resize: none;
+    border: 2px solid;
+    outline: none;
+}
+
+
