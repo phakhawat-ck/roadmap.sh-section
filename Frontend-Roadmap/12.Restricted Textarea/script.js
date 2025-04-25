@@ -12,7 +12,6 @@ const updateCount =() =>{
     text.innerText = `${displayCount} / ${maxChars}`
     message.value = message.value.slice(0, maxChars)
 
-    
     message.style.borderColor = countChar > maxChars ? 'red' : 'black'
 }
 
