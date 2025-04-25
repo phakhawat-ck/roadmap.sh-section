@@ -46,4 +46,3 @@ These projects will help strengthen my skills in:
 ---
 
 > Made with ❤️ by [Phakhawat](https://github.com/phakhawat-ck)
-12.Restricted%20Textarea
